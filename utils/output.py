@@ -16,6 +16,7 @@ def cout(t: str) -> int:
         return 1
     else:
         print(t)
+        return 0
 
 def iout(t: str) -> int:
     if check_int(t):
