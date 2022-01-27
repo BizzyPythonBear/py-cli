@@ -1,4 +1,4 @@
-#py-cli
+# py-cli
 Very basic cli I am using to practice python.
 
 ### Basic Usage
